@@ -5,9 +5,9 @@ An all-powerful toolset for TIMEC.
 Sentinel is an autonomous agent for persisting, processing and automating TIME 1.0.0.0 governance objects and
 tasks
 
-Sentinel is implemented as a Python application that binds to a local version 1.0.0 timed instance on each TIME v1.0,0 Masternode.
+Sentinel is implemented as a Python application that binds to a local version 1.0.0.0 timed instance on each TIMEC v1.0.0.0 Masternode.
 
-This guide covers installing Sentinel onto an existing 1.0.0 Masternode in Ubuntu 14.04 / 16.04.
+This guide covers installing Sentinel onto an existing 1.0.0.0 Masternode in Ubuntu 14.04 / 16.04.
 
 ## Installation
 
