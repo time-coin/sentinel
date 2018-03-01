@@ -1,9 +1,9 @@
-# TIME Sentinel
+# TIMEC Sentinel
 
-An all-powerful toolset for TIME.
+An all-powerful toolset for TIMEC.
 
-Sentinel is an autonomous agent for persisting, processing and automating TIME 1.0 (Dash V12.1) governance objects and
-tasks, and for expanded functions in the upcoming TIME 2.0 (Dash V13) release (Evolution).
+Sentinel is an autonomous agent for persisting, processing and automating TIME 1.0.0.0 governance objects and
+tasks
 
 Sentinel is implemented as a Python application that binds to a local version 1.0.0 timed instance on each TIME v1.0,0 Masternode.
 
@@ -30,7 +30,7 @@ Make sure the local TIME daemon running is at least version 1.0.0 (100000)
 
 Clone the Sentinel repo and install Python dependencies.
 
-    $ git clone https://github.com/timecoins/sentinel.git && cd sentinel
+    $ git clone https://github.com/loony383/sentinel.git && cd sentinel
     $ virtualenv ./venv
     $ ./venv/bin/pip install -r requirements.txt
 
