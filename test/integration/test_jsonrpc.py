@@ -16,7 +16,7 @@ def test_timed():
     config_text = TIMEConfig.slurp_config_file(config.time_conf)
     network = 'mainnet'
     is_testnet = False
-    genesis_hash = u'0000097c426ed83026189323dcff7e50b97c12f3c95311a0323ca94c3c5fc1a7'
+    genesis_hash = u'00000f9af577358ea5cbd79b0a4e32a0fab8b921543ec03dfaf653ffc06a9784'
     for line in config_text.split("\n"):
         if line.startswith('testnet=1'):
             network = 'testnet'
