@@ -30,7 +30,7 @@ Make sure the local TIME daemon running is at least version 1.0.0 (100000)
 
 Clone the Sentinel repo and install Python dependencies.
 
-    $ git clone https://github.com/loony383/sentinel.git && cd sentinel
+    $ git clone https://github.com/time-coin/sentinel.git && cd sentinel
     $ virtualenv ./venv
     $ ./venv/bin/pip install -r requirements.txt
 
